@@ -1,0 +1,2 @@
+testUser 123456 0
+testTeacher 123456 1
